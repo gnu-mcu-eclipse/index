@@ -4,11 +4,13 @@
 
 If you need a new Eclipse, [GNU MCU Eclipse IDE for C/C++ Developers](https://github.com/gnu-mcu-eclipse/org.eclipse.epp.packages/releases).
 
-To update an existing Eclipse
+To update an existing Eclipse:
+
 * search GNU MCU in Eclipse Marketplace and install
 * install from `http://gnu-mcu-eclipse.netlify.com/v4-neon-updates/`
 
-To install older version
+To install older version:
+
 * download an archive from [GNU MCU Eclipse plug-ins](https://github.com/gnu-mcu-eclipse/eclipse-plugins/releases)
 * install from the archive
 
@@ -56,4 +58,20 @@ Unpack the archive in:
 * [windows-build-tools.git](https://github.com/gnu-mcu-eclipse/windows-build-tools/) [![Github All Releases](https://img.shields.io/github/downloads/gnu-mcu-eclipse/windows-build-tools/latest/total.svg)](https://github.com/gnu-mcu-eclipse/windows-build-tools/releases/) [![Github All Releases](https://img.shields.io/github/downloads/gnu-mcu-eclipse/windows-build-tools/total.svg)](https://github.com/gnu-mcu-eclipse/windows-build-tools/releases/)
 * [riscv-none-gcc.git](https://github.com/gnu-mcu-eclipse/riscv-none-gcc/) [![Github All Releases](https://img.shields.io/github/downloads/gnu-mcu-eclipse/riscv-none-gcc/latest/total.svg)](https://github.com/gnu-mcu-eclipse/riscv-none-gcc/releases/) [![Github All Releases](https://img.shields.io/github/downloads/gnu-mcu-eclipse/riscv-none-gcc/total.svg)](https://github.com/gnu-mcu-eclipse/riscv-none-gcc/releases/)
 
+## xPacks
+
+* [@gnu-mcu-eclipse/windows-build-tools](https://github.com/gnu-mcu-eclipse/windows-build-tools-xpack/) [![npm (scoped)](https://img.shields.io/npm/v/@gnu-mcu-eclipse/windows-build-tools.svg)](https://www.npmjs.com/package/@gnu-mcu-eclipse/windows-build-tools/) [![npm](https://img.shields.io/npm/dw/@gnu-mcu-eclipse/windows-build-tools.svg)](https://www.npmjs.com/package/@gnu-mcu-eclipse/windows-build-tools/) [![npm](https://img.shields.io/npm/dt/@gnu-mcu-eclipse/windows-build-tools.svg)](https://www.npmjs.com/package/@gnu-mcu-eclipse/windows-build-tools/)
+* [@gnu-mcu-eclipse/openocd](https://github.com/gnu-mcu-eclipse/openocd-xpack/) [![npm (scoped)](https://img.shields.io/npm/v/@gnu-mcu-eclipse/openocd.svg)](https://www.npmjs.com/package/@gnu-mcu-eclipse/openocd/) [![npm](https://img.shields.io/npm/dw/@gnu-mcu-eclipse/openocd.svg)](https://www.npmjs.com/package/@gnu-mcu-eclipse/openocd/) [![npm](https://img.shields.io/npm/dt/@gnu-mcu-eclipse/openocd.svg)](https://www.npmjs.com/package/@gnu-mcu-eclipse/openocd/)
+* [@gnu-mcu-eclipse/riscv-none-gcc](https://github.com/gnu-mcu-eclipse/riscv-none-gcc-xpack/) [![npm (scoped)](https://img.shields.io/npm/v/@gnu-mcu-eclipse/riscv-none-gcc.svg)](https://www.npmjs.com/package/@gnu-mcu-eclipse/riscv-none-gcc/) [![npm](https://img.shields.io/npm/dw/@gnu-mcu-eclipse/riscv-none-gcc.svg)](https://www.npmjs.com/package/@gnu-mcu-eclipse/riscv-none-gcc/) [![npm](https://img.shields.io/npm/dt/@gnu-mcu-eclipse/riscv-none-gcc.svg)](https://www.npmjs.com/package/@gnu-mcu-eclipse/riscv-none-gcc/)
+
+* [@micro-os-plus/startup](https://github.com/micro-os-plus/startup-xpack/) [![npm (scoped)](https://img.shields.io/npm/v/@micro-os-plus/startup.svg)](https://www.npmjs.com/package/@micro-os-plus/startup/) [![npm](https://img.shields.io/npm/dw/@micro-os-plus/startup.svg)](https://www.npmjs.com/package/@micro-os-plus/startup/) [![npm](https://img.shields.io/npm/dt/@micro-os-plus/startup.svg)](https://www.npmjs.com/package/@micro-os-plus/startup/)
+* [@micro-os-plus/c-libs](https://github.com/micro-os-plus/c-libs-xpack/) [![npm (scoped)](https://img.shields.io/npm/v/@micro-os-plus/c-libs.svg)](https://www.npmjs.com/package/@micro-os-plus/c-libs/) [![npm](https://img.shields.io/npm/dw/@micro-os-plus/c-libs.svg)](https://www.npmjs.com/package/@micro-os-plus/c-libs/) [![npm](https://img.shields.io/npm/dt/@micro-os-plus/c-libs.svg)](https://www.npmjs.com/package/@micro-os-plus/c-libs/)
+* [@micro-os-plus/cpp-libs](https://github.com/micro-os-plus/cpp-libs-xpack/) [![npm (scoped)](https://img.shields.io/npm/v/@micro-os-plus/cpp-libs.svg)](https://www.npmjs.com/package/@micro-os-plus/cpp-libs/) [![npm](https://img.shields.io/npm/dw/@micro-os-plus/cpp-libs.svg)](https://www.npmjs.com/package/@micro-os-plus/cpp-libs/) [![npm](https://img.shields.io/npm/dt/@micro-os-plus/cpp-libs.svg)](https://www.npmjs.com/package/@micro-os-plus/cpp-libs/)
+* [@micro-os-plus/diag-trace](https://github.com/micro-os-plus/diag-trace-xpack/) [![npm (scoped)](https://img.shields.io/npm/v/@micro-os-plus/diag-trace.svg)](https://www.npmjs.com/package/@micro-os-plus/diag-trace/) [![npm](https://img.shields.io/npm/dw/@micro-os-plus/diag-trace.svg)](https://www.npmjs.com/package/@micro-os-plus/diag-trace/) [![npm](https://img.shields.io/npm/dt/@micro-os-plus/diag-trace.svg)](https://www.npmjs.com/package/@micro-os-plus/diag-trace/)
+* [@micro-os-plus/riscv-arch](https://github.com/micro-os-plus/riscv-arch-xpack/) [![npm (scoped)](https://img.shields.io/npm/v/@micro-os-plus/riscv-arch.svg)](https://www.npmjs.com/package/@micro-os-plus/riscv-arch/) [![npm](https://img.shields.io/npm/dw/@micro-os-plus/riscv-arch.svg)](https://www.npmjs.com/package/@micro-os-plus/riscv-arch/) [![npm](https://img.shields.io/npm/dt/@micro-os-plus/riscv-arch.svg)](https://www.npmjs.com/package/@micro-os-plus/riscv-arch/)
+
+* [@sifive/templates](https://github.com/micro-os-plus/sifive-templates-xpack/) [![npm (scoped)](https://img.shields.io/npm/v/@sifive/templates.svg)](https://www.npmjs.com/package/@sifive/templates/) [![npm](https://img.shields.io/npm/dw/@sifive/templates.svg)](https://www.npmjs.com/package/@sifive/templates/) [![npm](https://img.shields.io/npm/dt/@sifive/templates.svg)](https://www.npmjs.com/package/@sifive/templates/)
+* [@sifive/devices](https://github.com/micro-os-plus/sifive-devices-xpack/) [![npm (scoped)](https://img.shields.io/npm/v/@sifive/devices.svg)](https://www.npmjs.com/package/@sifive/devices/) [![npm](https://img.shields.io/npm/dw/@sifive/devices.svg)](https://www.npmjs.com/package/@sifive/devices/) [![npm](https://img.shields.io/npm/dt/@sifive/devices.svg)](https://www.npmjs.com/package/@sifive/devices/)
+* [@sifive/hifive1-board](https://github.com/micro-os-plus/sifive-hifive1-board-xpack/) [![npm (scoped)](https://img.shields.io/npm/v/@sifive/hifive1-board.svg)](https://www.npmjs.com/package/@sifive/hifive1-board/) [![npm](https://img.shields.io/npm/dw/@sifive/hifive1-board.svg)](https://www.npmjs.com/package/@sifive/hifive1-board/) [![npm](https://img.shields.io/npm/dt/@sifive/hifive1-board.svg)](https://www.npmjs.com/package/@sifive/hifive1-board/)
+* [@sifive/arty-boards](https://github.com/micro-os-plus/sifive-arty-boards-xpack/) [![npm (scoped)](https://img.shields.io/npm/v/@sifive/arty-boards.svg)](https://www.npmjs.com/package/@sifive/arty-boards/) [![npm](https://img.shields.io/npm/dw/@sifive/arty-boards.svg)](https://www.npmjs.com/package/@sifive/arty-boards/) [![npm](https://img.shields.io/npm/dt/@sifive/arty-boards.svg)](https://www.npmjs.com/package/@sifive/arty-boards/)
 
