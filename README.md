@@ -26,8 +26,7 @@ To install older versions:
 
 ### Workspace preferences
 
-Don't forget to set the workspace preferences, the defaults are not always right:
-* https://gnu-mcu-eclipse.github.io/eclipse/workspace/preferences/
+Don't forget to set the [workspace preferences](https://gnu-mcu-eclipse.github.io/eclipse/workspace/preferences/), the defaults are not always right.
 
 ### Binary tools
 
