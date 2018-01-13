@@ -31,10 +31,12 @@ If you prefer the manual way, download the archives from:
 * [GNU MCU Eclipse RISC-V Embedded GCC ](https://github.com/gnu-mcu-eclipse/riscv-none-gcc/releases)
 * [GNU ARM Eclipse QEMU](https://github.com/gnu-mcu-eclipse/qemu/releases)
 
-Unpack the archive in:
+Unpack the archives in:
 
 * `%HOMEPATH%\AppData\Roaming\GNU MCU Eclipse` (on Windows)
 * `$HOME/opt/gnu-mcu-eclipse` (on macOS and GNU/Linux)
+
+> Note: although perfectly possible to install the binaries anywhere, it is highly recommended to use this location, since by default the plug-ins search for the executables in this location.
 
 ## Issues
 
