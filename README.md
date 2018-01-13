@@ -2,17 +2,32 @@
 
 ### Eclipse plug-ins
 
-If you need a new Eclipse, [GNU MCU Eclipse IDE for C/C++ Developers](https://github.com/gnu-mcu-eclipse/org.eclipse.epp.packages/releases).
+If you need a new Eclipse:
+
+* download the entire [GNU MCU Eclipse IDE for C/C++ Developers](https://github.com/gnu-mcu-eclipse/org.eclipse.epp.packages/releases) (it includes the latest Eclipse CDT and the latest plug-ins).
 
 To update an existing Eclipse:
 
-* search GNU MCU in Eclipse Marketplace and install
-* install from `http://gnu-mcu-eclipse.netlify.com/v4-neon-updates/`
+* use Eclipse Marketplace:
+  * go to the _Eclipse_ menu → **Help** → **Eclipse Marketplace...**
+  * search **GNU MCU** 
+  * install
+  
+* use the update site:
+  * go to the _Eclipse_ menu → **Help** → **Install New Software**
+  * **Add...** → **Location:** `http://gnu-mcu-eclipse.netlify.com/v4-neon-updates/`
 
 To install older version:
 
 * download an archive from [GNU MCU Eclipse plug-ins](https://github.com/gnu-mcu-eclipse/eclipse-plugins/releases)
 * install from the archive
+  * go to the _Eclipse_ menu → **Help** → **Install New Software**
+  * **Add...** → **Archive...**
+
+### Workspace preferences
+
+Don't forget to set the workspace preferences, the defaults are not always right:
+* https://gnu-mcu-eclipse.github.io/eclipse/workspace/preferences/
 
 ### Binary tools
 
@@ -37,6 +52,10 @@ Unpack the archives in:
 * `$HOME/opt/gnu-mcu-eclipse` (on macOS and GNU/Linux)
 
 > Note: although perfectly possible to install the binaries anywhere, it is highly recommended to use this location, since by default the plug-ins search for the executables in this location.
+
+## Tutorials
+
+* [Create a Blinky ARM test project](https://gnu-mcu-eclipse.github.io/tutorials/blinky-arm/)
 
 ## Issues
 
