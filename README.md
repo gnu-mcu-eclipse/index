@@ -17,7 +17,7 @@ To update an existing Eclipse:
   * go to the _Eclipse_ menu → **Help** → **Install New Software**
   * **Add...** → **Location:** `http://gnu-mcu-eclipse.netlify.com/v4-neon-updates/`
 
-To install older version:
+To install older versions:
 
 * download an archive from [GNU MCU Eclipse plug-ins](https://github.com/gnu-mcu-eclipse/eclipse-plugins/releases)
 * install from the archive
