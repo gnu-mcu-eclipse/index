@@ -101,3 +101,7 @@ SiFive
 * [@sifive/hifive1-board](https://github.com/micro-os-plus/sifive-hifive1-board-xpack/) [![npm (scoped)](https://img.shields.io/npm/v/@sifive/hifive1-board.svg)](https://www.npmjs.com/package/@sifive/hifive1-board/) [![npm](https://img.shields.io/npm/dw/@sifive/hifive1-board.svg)](https://www.npmjs.com/package/@sifive/hifive1-board/) [![npm](https://img.shields.io/npm/dt/@sifive/hifive1-board.svg)](https://www.npmjs.com/package/@sifive/hifive1-board/)
 * [@sifive/arty-boards](https://github.com/micro-os-plus/sifive-arty-boards-xpack/) [![npm (scoped)](https://img.shields.io/npm/v/@sifive/arty-boards.svg)](https://www.npmjs.com/package/@sifive/arty-boards/) [![npm](https://img.shields.io/npm/dw/@sifive/arty-boards.svg)](https://www.npmjs.com/package/@sifive/arty-boards/) [![npm](https://img.shields.io/npm/dt/@sifive/arty-boards.svg)](https://www.npmjs.com/package/@sifive/arty-boards/)
 
+NPM modules
+
+* [xpm](https://github.com/xpack/xpm-js/) [![npm](https://img.shields.io/npm/v/xpm.svg)](https://www.npmjs.com/package/xpm/) [![npm](https://img.shields.io/npm/dw/xpm.svg)](https://www.npmjs.com/package/xpm/) [![npm](https://img.shields.io/npm/dt/xpm.svg)](https://www.npmjs.com/package/xpm/)
+* [xmake](https://github.com/xpack/xmake-js/) [![npm](https://img.shields.io/npm/v/xmake.svg)](https://www.npmjs.com/package/xmake/) [![npm](https://img.shields.io/npm/dw/xmake.svg)](https://www.npmjs.com/package/xmake/) [![npm](https://img.shields.io/npm/dt/xmake.svg)](https://www.npmjs.com/package/xmake/)
