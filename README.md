@@ -39,10 +39,10 @@ The most convenient way to install the binary tools is via the portable
 [`xpm`](https://www.npmjs.com/package/xpm) tool.
 
 ```console
-$ xpm install @gnu-mcu-eclipse/arm-none-eabi-gcc --global
-$ xpm install @gnu-mcu-eclipse/windows-build-tools --global
-$ xpm install @gnu-mcu-eclipse/openocd --global
-$ xpm install @gnu-mcu-eclipse/riscv-none-gcc --global
+$ xpm install --global @gnu-mcu-eclipse/arm-none-eabi-gcc
+$ xpm install --global @gnu-mcu-eclipse/windows-build-tools
+$ xpm install --global @gnu-mcu-eclipse/openocd
+$ xpm install --global @gnu-mcu-eclipse/riscv-none-gcc
 ```
 
 If you prefer the manual way, download the archives from:
