@@ -40,17 +40,18 @@ The most convenient way to install the binary tools is via the portable
 
 ```console
 $ xpm install --global @gnu-mcu-eclipse/arm-none-eabi-gcc
+$ xpm install --global @gnu-mcu-eclipse/riscv-none-gcc
 $ xpm install --global @gnu-mcu-eclipse/windows-build-tools
 $ xpm install --global @gnu-mcu-eclipse/openocd
-$ xpm install --global @gnu-mcu-eclipse/riscv-none-gcc
+$ xpm install --global @gnu-mcu-eclipse/qemu
 ```
 
 If you prefer the manual way, download the archives from:
 
 * [GNU MCU Eclipse ARM Embedded GCC ](https://github.com/gnu-mcu-eclipse/arm-none-eabi-gcc/releases)
+* [GNU MCU Eclipse RISC-V Embedded GCC ](https://github.com/gnu-mcu-eclipse/riscv-none-gcc/releases)
 * [GNU MCU Eclipse Windows Build Tools](https://github.com/gnu-mcu-eclipse/windows-build-tools/releases)
 * [GNU MCU Eclipse OpenOCD](https://github.com/gnu-mcu-eclipse/openocd/releases)
-* [GNU MCU Eclipse RISC-V Embedded GCC ](https://github.com/gnu-mcu-eclipse/riscv-none-gcc/releases)
 * [GNU ARM Eclipse QEMU](https://github.com/gnu-mcu-eclipse/qemu/releases)
 
 Unpack the archives in:
@@ -132,6 +133,10 @@ GNU MCU Eclipse
 [![npm (scoped)](https://img.shields.io/npm/v/@gnu-mcu-eclipse/arm-none-eabi-gcc.svg)](https://www.npmjs.com/package/@gnu-mcu-eclipse/arm-none-eabi-gcc/)
 [![npm](https://img.shields.io/npm/dw/@gnu-mcu-eclipse/arm-none-eabi-gcc.svg)](https://www.npmjs.com/package/@gnu-mcu-eclipse/arm-none-eabi-gcc/)
 [![npm](https://img.shields.io/npm/dt/@gnu-mcu-eclipse/arm-none-eabi-gcc.svg)](https://www.npmjs.com/package/@gnu-mcu-eclipse/arm-none-eabi-gcc/)
+* [@gnu-mcu-eclipse/riscv-none-gcc](https://github.com/gnu-mcu-eclipse/riscv-none-gcc-xpack/)
+[![npm (scoped)](https://img.shields.io/npm/v/@gnu-mcu-eclipse/riscv-none-gcc.svg)](https://www.npmjs.com/package/@gnu-mcu-eclipse/riscv-none-gcc/)
+[![npm](https://img.shields.io/npm/dw/@gnu-mcu-eclipse/riscv-none-gcc.svg)](https://www.npmjs.com/package/@gnu-mcu-eclipse/riscv-none-gcc/)
+[![npm](https://img.shields.io/npm/dt/@gnu-mcu-eclipse/riscv-none-gcc.svg)](https://www.npmjs.com/package/@gnu-mcu-eclipse/riscv-none-gcc/)
 * [@gnu-mcu-eclipse/windows-build-tools](https://github.com/gnu-mcu-eclipse/windows-build-tools-xpack/)
 [![npm (scoped)](https://img.shields.io/npm/v/@gnu-mcu-eclipse/windows-build-tools.svg)](https://www.npmjs.com/package/@gnu-mcu-eclipse/windows-build-tools/)
 [![npm](https://img.shields.io/npm/dw/@gnu-mcu-eclipse/windows-build-tools.svg)](https://www.npmjs.com/package/@gnu-mcu-eclipse/windows-build-tools/)
@@ -140,10 +145,10 @@ GNU MCU Eclipse
 [![npm (scoped)](https://img.shields.io/npm/v/@gnu-mcu-eclipse/openocd.svg)](https://www.npmjs.com/package/@gnu-mcu-eclipse/openocd/)
 [![npm](https://img.shields.io/npm/dw/@gnu-mcu-eclipse/openocd.svg)](https://www.npmjs.com/package/@gnu-mcu-eclipse/openocd/)
 [![npm](https://img.shields.io/npm/dt/@gnu-mcu-eclipse/openocd.svg)](https://www.npmjs.com/package/@gnu-mcu-eclipse/openocd/)
-* [@gnu-mcu-eclipse/riscv-none-gcc](https://github.com/gnu-mcu-eclipse/riscv-none-gcc-xpack/)
-[![npm (scoped)](https://img.shields.io/npm/v/@gnu-mcu-eclipse/riscv-none-gcc.svg)](https://www.npmjs.com/package/@gnu-mcu-eclipse/riscv-none-gcc/)
-[![npm](https://img.shields.io/npm/dw/@gnu-mcu-eclipse/riscv-none-gcc.svg)](https://www.npmjs.com/package/@gnu-mcu-eclipse/riscv-none-gcc/)
-[![npm](https://img.shields.io/npm/dt/@gnu-mcu-eclipse/riscv-none-gcc.svg)](https://www.npmjs.com/package/@gnu-mcu-eclipse/riscv-none-gcc/)
+* [@gnu-mcu-eclipse/qemu](https://github.com/gnu-mcu-eclipse/qemu-xpack/)
+[![npm (scoped)](https://img.shields.io/npm/v/@gnu-mcu-eclipse/qemu.svg)](https://www.npmjs.com/package/@gnu-mcu-eclipse/qemu/)
+[![npm](https://img.shields.io/npm/dw/@gnu-mcu-eclipse/qemu.svg)](https://www.npmjs.com/package/@gnu-mcu-eclipse/qemu/)
+[![npm](https://img.shields.io/npm/dt/@gnu-mcu-eclipse/qemu.svg)](https://www.npmjs.com/package/@gnu-mcu-eclipse/qemu/)
 
 µOS++
 
