@@ -78,7 +78,7 @@ for the executables in this location.
 [![GitHub pull](https://img.shields.io/github/issues-pr/gnu-mcu-eclipse/gnu-mcu-eclipse.github.io-source.svg)](https://github.com/gnu-mcu-eclipse/gnu-mcu-eclipse.github.io-source/pulls/)
 [![Build Status](https://travis-ci.org/gnu-mcu-eclipse/eclipse-plugins.svg?branch=develop)](https://github.com/gnu-mcu-eclipse/gnu-mcu-eclipse.github.io-source/issues/) 
 * [arm-none-eabi-gcc-build.git](https://github.com/gnu-mcu-eclipse/arm-none-eabi-gcc-build/)
-[![GitHub issues](https://img.shields.io/github/issues/gnu-mcu-eclipse/arm-none-eabi-gcc-build.svg)](https://github.com/gnu-mcu-eclipse/rarm-none-eabi-gcc-build/issues/)
+[![GitHub issues](https://img.shields.io/github/issues/gnu-mcu-eclipse/arm-none-eabi-gcc-build.svg)](https://github.com/gnu-mcu-eclipse/arm-none-eabi-gcc-build/issues/)
 [![GitHub pulls](https://img.shields.io/github/issues-pr/gnu-mcu-eclipse/arm-none-eabi-gcc-build.svg)](https://github.com/gnu-mcu-eclipse/arm-none-eabi-gcc-build/pulls/)
 * [openocd.git](https://github.com/gnu-mcu-eclipse/openocd/)
 [![GitHub issues](https://img.shields.io/github/issues/gnu-mcu-eclipse/openocd.svg)](https://github.com/gnu-mcu-eclipse/openocd/issues/)
