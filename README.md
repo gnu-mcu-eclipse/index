@@ -46,6 +46,12 @@ $ xpm install --global @gnu-mcu-eclipse/openocd
 $ xpm install --global @gnu-mcu-eclipse/qemu
 ```
 
+Or, all together:
+
+```console
+$ xpm install --global @gnu-mcu-eclipse/arm-none-eabi-gcc @gnu-mcu-eclipse/riscv-none-gcc @gnu-mcu-eclipse/windows-build-tools @gnu-mcu-eclipse/openocd @gnu-mcu-eclipse/qemu
+```
+
 If you prefer the manual way, download the archives from:
 
 * [GNU MCU Eclipse ARM Embedded GCC ](https://github.com/gnu-mcu-eclipse/arm-none-eabi-gcc/releases)
